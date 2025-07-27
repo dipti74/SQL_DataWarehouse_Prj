@@ -1,1 +1,2 @@
-# SQL_DataWarehouse_Prj
+# SQL DataWarehouse Project
+Welcome to the Datawarehouse Project Repository.
